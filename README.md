@@ -1,1 +1,1 @@
-## Hybrid Event Revolution Incoming
+## Template for future full stack projects
